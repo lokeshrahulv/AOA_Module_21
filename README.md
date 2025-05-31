@@ -135,6 +135,7 @@ else:
 
 ## Result:
 The Hamiltonian path program executed successfully, and it determined whether a Hamiltonian path exists in the given graph.# EX 3C Sudoku Solver
+# EX 3C Sudoku Solver
 ## AIM:
 To write a python program to find the solution of sudoku puzzle using Backtracking.
 
@@ -214,6 +215,7 @@ solve()
 
 ## Result:
 The Sudoku solver program executed successfully and found the solution for the given puzzle.# EX 3D Pattern Matching
+# EX 3D Pattern Matching
 ## AIM:
 To write a python program to implement pattern matching on the given string using Brute Force algorithm.
 
